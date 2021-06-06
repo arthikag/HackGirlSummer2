@@ -1,4 +1,4 @@
-#HackGirlSummer2
+#HackGirlSummer2 <h2>06/06/2021</h2>
 <h1>CLUB OF FITNESS</h1>
 <h2>My Project for HackGirlSummer2.0<br>https://devpost.com/software/club-of-fitness</h2>
 <h2>Inspiration</h2>
