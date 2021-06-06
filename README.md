@@ -5,7 +5,7 @@
 was all the worthy web apps which supports men & women in getting fit even in home, during this pandemic situation CLICK HERE DEMO SITE
 
 <h2>What it does</h2>
-It suggests you a diet plan. It teaches about various postures in yoga . Gives awareness about diseases . It keeps tracks on the tasks to be completed. Helps in reading & creating blogs. Gives a VR experience of being in a park & outdoor.
+It suggests you a <b>diet plan</b>. It teaches about various postures in <b>yoga</b> . Gives <b>awareness about diseases</b> . It keeps tracks on the <b>tasks to be completed</b>. Helps in <b>reading & creating blogs<b>. Gives a <b>VR</b> experience of being in a park & outdoor.
 
 <h2>Built With</h2>
   <ul>
