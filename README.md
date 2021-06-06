@@ -1,5 +1,5 @@
 <h2>#HackGirlSummer2 06/06/2021</h2>
-<h1>CLUB OF FITNESS</h1>
+<h1>CLUB OF FITNESS</h1> <img src="https://media1.tenor.com/images/db3c9623a0fe7a4c7715c71c9c61fcc5/tenor.gif?itemid=10681166" height=10px width=10px>
 <h2>My Project for HackGirlSummer2.0<br>https://devpost.com/software/club-of-fitness</h2>
 <h2>Inspiration</h2>
 was all the worthy web apps which supports men & women in getting fit even in home, during this pandemic situation.
