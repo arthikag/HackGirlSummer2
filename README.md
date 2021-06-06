@@ -7,21 +7,6 @@ was all the worthy web apps which supports men & women in getting fit even in ho
 <h2>What it does</h2>
 It suggests you a diet plan. It teaches about various postures in yoga . Gives awareness about diseases . It keeps tracks on the tasks to be completed. Helps in reading & creating blogs. Gives a VR experience of being in a park & outdoor.
 
-<h2>How we built it</h2>
-using PHP, HTML, Bootstrap, CSS, JavaScript, MySQL, tailwind, a-frame(VR), Blender3D
-
-<h2>Challenges we ran into</h2>
-We had less time to finish load of work. Also, the hosting issue was the supreme one for this project for the utilization of the VR.
-
-<h2>Accomplishments that we're proud of</h2>
-Uplifting men & women who cannot afford to go to gym & yoga center.
-
-<h2>What we learned</h2>
-Even a web app could support human in his health.
-
-<h2>What's next for CLUB OF FITNESS</h2>
-Making Indians Fit :-)
-
 <h2>Built With</h2>
   <ul>
     <li>blender3d</li>
@@ -35,6 +20,19 @@ Making Indians Fit :-)
     <li>tailwind</li>
     <li>vr</li>
   </ul>
+
+<h2>Challenges we ran into</h2>
+We had less time to finish load of work. Also, the hosting issue was the supreme one for this project for the utilization of the VR.
+
+<h2>Accomplishments that we're proud of</h2>
+Uplifting men & women who cannot afford to go to gym & yoga center.
+
+<h2>What we learned</h2>
+Even a web app could support human in his health.
+
+<h2>What's next for CLUB OF FITNESS</h2>
+Making Indians Fit :-)
+
 Try it out<br>
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/559/402/datas/gallery.jpg">
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/559/398/datas/gallery.jpg">
