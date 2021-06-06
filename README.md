@@ -2,7 +2,7 @@
 <h1>CLUB OF FITNESS</h1>
 <h2>My Project for HackGirlSummer2.0<br>https://devpost.com/software/club-of-fitness</h2>
 <h2>Inspiration</h2>
-was all the worthy web apps which supports men & women in getting fit even in home, during this pandemic situation CLICK HERE DEMO SITE
+was all the worthy web apps which supports men & women in getting fit even in home, during this pandemic situation.
 
 <h2>What it does</h2>
 It suggests you a <b>diet plan</b>. It teaches about various postures in <b>yoga</b> . Gives <b>awareness about diseases</b> . It keeps tracks on the <b>tasks to be completed</b>. Helps in <b>reading & creating blogs<b>. Gives a <b>VR</b> experience of being in a park & outdoor.
